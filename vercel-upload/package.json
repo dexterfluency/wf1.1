@@ -1,0 +1,9 @@
+{
+  "name": "wf1-brief-to-frameio",
+  "version": "1.0.0",
+  "description": "WF1 — Asana brief created → Frame.io folder created",
+  "engines": {
+    "node": ">=18"
+  }
+}
+
